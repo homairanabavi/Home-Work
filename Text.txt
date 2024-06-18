@@ -1,2 +1,38 @@
 Hello World
-Its my first demo
+If you are here to learn more about GIT & GITHUP, I gotta tell you that they are two separate pieces of software.
+Git is a free, open source version control tool that developers install locally on their personal computers, 
+while GitHub is a pay-for-use online service built to run Git in the cloud.
+
+Git is a piece of software. 
+GitHub is an online SaaS service. 
+Yet despite this distinction, Git and GitHub are not competitive offerings. 
+Instead, they work together and complement each other.
+
+What is Git?
+Git bills itself as a simple and easy-to-use distributed version control tool.
+Developers can take snapshots of their code at various points in time, creating a version history that maps their 
+software development process. (That's why Git is called a version control tool.) 
+Developers can collaboratively share these code snapshots, or commits, with any number of other developers, 
+located anywhere in the world by pushing it to GITHUP and make is accessible for them only through GITHUP.
+
+Basic Git commands
+Developers who worked with Git 10 years ago would use the same set of basic git commands today, 
+such as the following:
+
+git init to create a repository.
+git clone to copy a remote repository.
+git add to stage a file.
+git commit to snapshot their code.
+git merge to combine branches.
+git rebase to simplify their commit history.
+git fetch and git pull to update their repositories.
+git push to share their code with others.
+git squash and git clean for housekeeping.
+
+What is GitHub?
+GitHub is an online software development platform. 
+It's used for storing, tracking, and collaborating on software projects.
+It makes it easy for developers to share code files and collaborate with fellow developers 
+on open-source projects. GitHub also serves as a social networking site where developers 
+can openly network, collaborate, and pitch their work.
+
